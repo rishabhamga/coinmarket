@@ -1,6 +1,6 @@
 import CMCtable from '../components/cmc-table/cmcTable'
-import Header from '../components/header'
 import Trending from '../components/trending'
+import Header from '../components/header'
 import SwapCryptoModal from '../components/swapCryptoModesls'
 
 export default function Home() {
